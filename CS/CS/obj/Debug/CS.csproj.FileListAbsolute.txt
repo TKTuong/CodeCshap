@@ -1,0 +1,6 @@
+c:\users\tuong\documents\visual studio 2013\Projects\CS\CS\bin\Debug\CS.exe.config
+c:\users\tuong\documents\visual studio 2013\Projects\CS\CS\obj\Debug\CS.csprojResolveAssemblyReference.cache
+c:\users\tuong\documents\visual studio 2013\Projects\CS\CS\bin\Debug\CS.exe
+c:\users\tuong\documents\visual studio 2013\Projects\CS\CS\bin\Debug\CS.pdb
+c:\users\tuong\documents\visual studio 2013\Projects\CS\CS\obj\Debug\CS.exe
+c:\users\tuong\documents\visual studio 2013\Projects\CS\CS\obj\Debug\CS.pdb

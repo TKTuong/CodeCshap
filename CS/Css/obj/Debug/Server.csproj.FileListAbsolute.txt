@@ -1,0 +1,6 @@
+C:\Users\tuong\documents\visual studio 2013\Projects\CS\Css\bin\Debug\Css.exe.config
+C:\Users\tuong\documents\visual studio 2013\Projects\CS\Css\bin\Debug\Css.exe
+C:\Users\tuong\documents\visual studio 2013\Projects\CS\Css\bin\Debug\Css.pdb
+C:\Users\tuong\documents\visual studio 2013\Projects\CS\Css\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\tuong\documents\visual studio 2013\Projects\CS\Css\obj\Debug\Css.exe
+C:\Users\tuong\documents\visual studio 2013\Projects\CS\Css\obj\Debug\Css.pdb

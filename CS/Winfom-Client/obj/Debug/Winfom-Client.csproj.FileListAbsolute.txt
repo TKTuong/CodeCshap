@@ -1,0 +1,9 @@
+C:\Users\tuong\documents\visual studio 2013\Projects\CS\Winfom-Client\bin\Debug\Winfom-Client.exe.config
+C:\Users\tuong\documents\visual studio 2013\Projects\CS\Winfom-Client\bin\Debug\Winfom-Client.exe
+C:\Users\tuong\documents\visual studio 2013\Projects\CS\Winfom-Client\bin\Debug\Winfom-Client.pdb
+C:\Users\tuong\documents\visual studio 2013\Projects\CS\Winfom-Client\obj\Debug\Winfom-Client.csprojResolveAssemblyReference.cache
+C:\Users\tuong\documents\visual studio 2013\Projects\CS\Winfom-Client\obj\Debug\Winfom_Client.Form1.resources
+C:\Users\tuong\documents\visual studio 2013\Projects\CS\Winfom-Client\obj\Debug\Winfom_Client.Properties.Resources.resources
+C:\Users\tuong\documents\visual studio 2013\Projects\CS\Winfom-Client\obj\Debug\Winfom-Client.csproj.GenerateResource.Cache
+C:\Users\tuong\documents\visual studio 2013\Projects\CS\Winfom-Client\obj\Debug\Winfom-Client.exe
+C:\Users\tuong\documents\visual studio 2013\Projects\CS\Winfom-Client\obj\Debug\Winfom-Client.pdb

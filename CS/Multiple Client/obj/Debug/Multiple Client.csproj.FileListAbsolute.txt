@@ -1,0 +1,6 @@
+C:\Users\tuong\documents\visual studio 2013\Projects\CS\Multiple Client\bin\Debug\Multiple Client.exe.config
+C:\Users\tuong\documents\visual studio 2013\Projects\CS\Multiple Client\bin\Debug\Multiple Client.exe
+C:\Users\tuong\documents\visual studio 2013\Projects\CS\Multiple Client\bin\Debug\Multiple Client.pdb
+C:\Users\tuong\documents\visual studio 2013\Projects\CS\Multiple Client\obj\Debug\Multiple Client.exe
+C:\Users\tuong\documents\visual studio 2013\Projects\CS\Multiple Client\obj\Debug\Multiple Client.pdb
+C:\Users\tuong\documents\visual studio 2013\Projects\CS\Multiple Client\obj\Debug\Multiple Client.csprojResolveAssemblyReference.cache
