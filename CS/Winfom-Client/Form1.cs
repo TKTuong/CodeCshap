@@ -85,15 +85,23 @@ namespace Winfom_Client
         private void Send_click(object sender, EventArgs e)
         {
             byte[] dataSend = Encoding.ASCII.GetBytes(textBox1.Text);
-            _clientSocket.Send(dataSend, SocketFlags.None);
-            
-            // recv data
+            try { _clientSocket.Send(dataSend, SocketFlags.None);
             byte[] dataRecv = new byte[1024];
             int recv = _clientSocket.Receive(dataRecv, SocketFlags.None);
 
             String text_recv = Encoding.ASCII.GetString(dataRecv, 0, recv);
 
             textBox2.Text = text_recv;
+            }
+            catch (SocketException ex )
+            {
+                MessageBox.Show("Please connected");
+                return;
+            }
+           
+            
+            // recv data
+          
         }
     }
 }

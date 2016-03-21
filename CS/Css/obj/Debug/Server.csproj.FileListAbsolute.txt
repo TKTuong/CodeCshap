@@ -4,3 +4,9 @@ C:\Users\tuong\documents\visual studio 2013\Projects\CS\Css\bin\Debug\Css.pdb
 C:\Users\tuong\documents\visual studio 2013\Projects\CS\Css\obj\Debug\Server.csprojResolveAssemblyReference.cache
 C:\Users\tuong\documents\visual studio 2013\Projects\CS\Css\obj\Debug\Css.exe
 C:\Users\tuong\documents\visual studio 2013\Projects\CS\Css\obj\Debug\Css.pdb
+D:\Git\CodeCshap\CS\Css\bin\Debug\Css.exe.config
+D:\Git\CodeCshap\CS\Css\obj\Debug\Css.exe
+D:\Git\CodeCshap\CS\Css\obj\Debug\Css.pdb
+D:\Git\CodeCshap\CS\Css\bin\Debug\Css.exe
+D:\Git\CodeCshap\CS\Css\bin\Debug\Css.pdb
+D:\Git\CodeCshap\CS\Css\obj\Debug\Server.csprojResolveAssemblyReference.cache
